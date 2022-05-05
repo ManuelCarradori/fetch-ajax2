@@ -1272,7 +1272,7 @@
     "hr": "Bahami",
     "fa": "باهاما"
     },
-    "flag": "https://restcountries.eu/data/bhs.svg",
+    "flags": "./img/bs.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1288,7 +1288,7 @@
     "cioc": "BAH"
     },
     {
-    "name": "Bahrain",
+    "name": "Baréin",
     "topLevelDomain": [
     ".bh"
     ],
@@ -1346,7 +1346,7 @@
     "hr": "Bahrein",
     "fa": "بحرین"
     },
-    "flag": "https://restcountries.eu/data/bhr.svg",
+    "flags": "./img/bh.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -1423,7 +1423,7 @@
     "hr": "Bangladeš",
     "fa": "بنگلادش"
     },
-    "flag": "https://restcountries.eu/data/bgd.svg",
+    "flags": "./img/bd.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -1491,7 +1491,7 @@
     "hr": "Barbados",
     "fa": "باربادوس"
     },
-    "flag": "https://restcountries.eu/data/brb.svg",
+    "flags": "./img/bb.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1507,7 +1507,7 @@
     "cioc": "BAR"
     },
     {
-    "name": "Belarus",
+    "name": "Bielorrusia",
     "topLevelDomain": [
     ".by"
     ],
@@ -1586,7 +1586,7 @@
     "hr": "Bjelorusija",
     "fa": "بلاروس"
     },
-    "flag": "https://restcountries.eu/data/blr.svg",
+    "flags": "./img/by.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -1600,7 +1600,7 @@
     "cioc": "BLR"
     },
     {
-    "name": "Belgium",
+    "name": "Bélgica",
     "topLevelDomain": [
     ".be"
     ],
@@ -1681,7 +1681,7 @@
     "hr": "Belgija",
     "fa": "بلژیک"
     },
-    "flag": "https://restcountries.eu/data/bel.svg",
+    "flags": "./img/be.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -1693,7 +1693,7 @@
     "cioc": "BEL"
     },
     {
-    "name": "Belize",
+    "name": "Belice",
     "topLevelDomain": [
     ".bz"
     ],
@@ -1707,8 +1707,8 @@
     "BZ"
     ],
     "region": "America",
-    "subregion": "Central America",
-    "Poblacion": 370300,
+    "subregion": "Centroamérica",
+    "Poblacion": 397621,
     "latlng": [
     17.25,
     -88.75
@@ -1758,7 +1758,7 @@
     "hr": "Belize",
     "fa": "بلیز"
     },
-    "flag": "https://restcountries.eu/data/blz.svg",
+    "flags": "./img/bz.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1772,7 +1772,7 @@
     },
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -1784,7 +1784,7 @@
     "cioc": "BIZ"
     },
     {
-    "name": "Benin",
+    "name": "Benín",
     "topLevelDomain": [
     ".bj"
     ],
@@ -1847,7 +1847,7 @@
     "hr": "Benin",
     "fa": "بنین"
     },
-    "flag": "https://restcountries.eu/data/ben.svg",
+    "flags": "./img/bj.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -1865,7 +1865,7 @@
     "cioc": "BEN"
     },
     {
-    "name": "Bermuda",
+    "name": "Bermudas",
     "topLevelDomain": [
     ".bm"
     ],
@@ -1924,12 +1924,12 @@
     "hr": "Bermudi",
     "fa": "برمودا"
     },
-    "flag": "https://restcountries.eu/data/bmu.svg",
+    "flags": "./img/bm.svg",
     "regionalBlocs": [],
     "cioc": "BER"
     },
     {
-    "name": "Bhutan",
+    "name": "Bután",
     "topLevelDomain": [
     ".bt"
     ],
@@ -1994,7 +1994,7 @@
     "hr": "Butan",
     "fa": "بوتان"
     },
-    "flag": "https://restcountries.eu/data/btn.svg",
+    "flags": "./img/bt.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -2006,7 +2006,7 @@
     "cioc": "BHU"
     },
     {
-    "name": "Bolivia (Plurinational State of)",
+    "name": "Bolivia",
     "topLevelDomain": [
     ".bo"
     ],
@@ -2087,7 +2087,7 @@
     "hr": "Bolivija",
     "fa": "بولیوی"
     },
-    "flag": "https://restcountries.eu/data/bol.svg",
+    "flags": "./img/bo.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -2108,7 +2108,7 @@
     "cioc": "BOL"
     },
     {
-    "name": "Bonaire, Sint Eustatius and Saba",
+    "name": "Bonaire, San Eustaquio y Sabaa",
     "topLevelDomain": [
     ".an",
     ".nl"
@@ -2124,8 +2124,8 @@
     "Boneiru"
     ],
     "region": "America",
-    "subregion": "Caribe",
-    "Poblacion": 17408,
+    "subregion": "Del Norte de America",
+    "Poblacion": 25157,
     "latlng": [
     12.15,
     -68.266667
@@ -2166,12 +2166,12 @@
     "hr": null,
     "fa": "بونیر"
     },
-    "flag": "https://restcountries.eu/data/bes.svg",
+    "flags": "./img/bq.svg",
     "regionalBlocs": [],
     "cioc": null
     },
     {
-    "name": "Bosnia and Herzegovina",
+    "name": "Bosnia y Herzegovina",
     "topLevelDomain": [
     ".ba"
     ],
@@ -2245,7 +2245,7 @@
     "hr": "Bosna i Hercegovina",
     "fa": "بوسنی و هرزگوین"
     },
-    "flag": "https://restcountries.eu/data/bih.svg",
+    "flags": "./img/ba.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -2257,7 +2257,7 @@
     "cioc": "BIH"
     },
     {
-    "name": "Botswana",
+    "name": "Botsuana",
     "topLevelDomain": [
     ".bw"
     ],
@@ -2326,7 +2326,7 @@
     "hr": "Bocvana",
     "fa": "بوتسوانا"
     },
-    "flag": "https://restcountries.eu/data/bwa.svg",
+    "flags": "./img/bw.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -2344,7 +2344,7 @@
     "cioc": "BOT"
     },
     {
-    "name": "Bouvet Island",
+    "name": "Isla Bouvet",
     "topLevelDomain": [
     ".bv"
     ],
@@ -2359,7 +2359,7 @@
     "Bouvetøya",
     "Bouvet-øya"
     ],
-    "region": "",
+    "region": "Antártida",
     "subregion": "",
     "Poblacion": 0,
     "latlng": [
@@ -2414,7 +2414,7 @@
     "hr": "Otok Bouvet",
     "fa": "جزیره بووه"
     },
-    "flag": "https://restcountries.eu/data/bvt.svg",
+    "flags": "./img/bv.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -2492,7 +2492,7 @@
     "hr": "Brazil",
     "fa": "برزیل"
     },
-    "flag": "https://restcountries.eu/data/bra.svg",
+    "flags": "./img/br.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -2522,13 +2522,13 @@
     "callingCodes": [
     "246"
     ],
-    "capital": "Diego Garcia",
+    "capital": "",
     "altSpellings": [
     "IO"
     ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "Poblacion": 3000,
+    "region": "África",
+    "subregion": "",
+    "Poblacion": 0,
     "latlng": [
     -6,
     71.5
@@ -2569,7 +2569,7 @@
     "hr": "Britanski Indijskooceanski teritorij",
     "fa": "قلمرو بریتانیا در اقیانوس هند"
     },
-    "flag": "https://restcountries.eu/data/iot.svg",
+    "flags": "./img/io.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -2587,7 +2587,7 @@
     "cioc": ""
     },
     {
-    "name": "United States Minor Outlying Islands",
+    "name": "Islas Ultramarinas Menores de los Estados Unidos",
     "topLevelDomain": [
     ".us"
     ],
@@ -2642,12 +2642,12 @@
     "hr": "Mali udaljeni otoci SAD-a",
     "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
     },
-    "flag": "https://restcountries.eu/data/umi.svg",
+    "flags": "./img/um.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Virgin Islands (British)",
+    "name": "Islas Vírgenes Británicas",
     "topLevelDomain": [
     ".vg"
     ],
@@ -2662,7 +2662,7 @@
     ],
     "region": "America",
     "subregion": "Caribe",
-    "Poblacion": 28514,
+    "Poblacion": 30030,
     "latlng": [
     18.431383,
     -64.62305
@@ -2708,12 +2708,12 @@
     "hr": "Britanski Djevičanski Otoci",
     "fa": "جزایر ویرجین بریتانیا"
     },
-    "flag": "https://restcountries.eu/data/vgb.svg",
+    "flags": "./img/vg.svg",
     "regionalBlocs": [],
     "cioc": "IVB"
     },
     {
-    "name": "Virgin Islands (U.S.)",
+    "name": "Islas Vírgenes de los Estados Unidos",
     "topLevelDomain": [
     ".vi"
     ],
@@ -2772,12 +2772,12 @@
     "hr": null,
     "fa": "جزایر ویرجین آمریکا"
     },
-    "flag": "https://restcountries.eu/data/vir.svg",
+    "flags": "./img/vi.svg",
     "regionalBlocs": [],
     "cioc": "ISV"
     },
     {
-    "name": "Brunei Darussalam",
+    "name": "Brunéi",
     "topLevelDomain": [
     ".bn"
     ],
@@ -2842,7 +2842,7 @@
     "hr": "Brunej",
     "fa": "برونئی"
     },
-    "flag": "https://restcountries.eu/data/brn.svg",
+    "flags": "./img/bn.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -2918,7 +2918,7 @@
     "hr": "Bugarska",
     "fa": "بلغارستان"
     },
-    "flag": "https://restcountries.eu/data/bgr.svg",
+    "flags": "./img/bg.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -2999,7 +2999,7 @@
     "hr": "Burkina Faso",
     "fa": "بورکینافاسو"
     },
-    "flag": "https://restcountries.eu/data/bfa.svg",
+    "flags": "./img/bf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3086,7 +3086,7 @@
     "hr": "Burundi",
     "fa": "بوروندی"
     },
-    "flag": "https://restcountries.eu/data/bdi.svg",
+    "flags": "./img/bi.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3104,7 +3104,7 @@
     "cioc": "BDI"
     },
     {
-    "name": "Cambodia",
+    "name": "Camboya",
     "topLevelDomain": [
     ".kh"
     ],
@@ -3170,7 +3170,7 @@
     "hr": "Kambodža",
     "fa": "کامبوج"
     },
-    "flag": "https://restcountries.eu/data/khm.svg",
+    "flags": "./img/kh.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -4440,7 +4440,7 @@
     "República de Costa Rica"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 4890379,
     "latlng": [
     10,
@@ -4489,7 +4489,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -5207,7 +5207,7 @@
     },
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -5407,7 +5407,7 @@
     "República de El Salvador"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 6520675,
     "latlng": [
     13.83333333,
@@ -5456,7 +5456,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -7260,7 +7260,7 @@
     "GT"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 16176133,
     "latlng": [
     15.5,
@@ -7311,7 +7311,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -7901,7 +7901,7 @@
     "República de Honduras"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 8576532,
     "latlng": [
     15,
@@ -7951,7 +7951,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -11339,7 +11339,7 @@
     "Estados Unidos Mexicanos"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 122273473,
     "latlng": [
     23,
@@ -12560,7 +12560,7 @@
     "República de Nicaragua"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 6262703,
     "latlng": [
     13,
@@ -12609,7 +12609,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -13465,7 +13465,7 @@
     "República de Panamá"
     ],
     "region": "America",
-    "subregion": "Central America",
+    "subregion": "Centroamérica",
     "Poblacion": 3814672,
     "latlng": [
     9,
@@ -13519,7 +13519,7 @@
     "regionalBlocs": [
     {
     "acronym": "CAIS",
-    "name": "Central American Integration System",
+    "name": "Centroamérica Integration System",
     "otherAcronyms": [
     "SICA"
     ],
@@ -14637,7 +14637,7 @@
     "cioc": "RWA"
     },
     {
-    "name": "Saint Barthélemy",
+    "name": "San Bartolomé",
     "topLevelDomain": [
     ".bl"
     ],
@@ -14696,7 +14696,7 @@
     "hr": "Saint Barthélemy",
     "fa": "سن-بارتلمی"
     },
-    "flag": "https://restcountries.eu/data/blm.svg",
+    "flags": "./img/bl.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
