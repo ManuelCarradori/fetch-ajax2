@@ -1,7 +1,4 @@
 :root {
-    /* --color-bg: #bebebe;
-    --color-bg-secondary: #ffffff;
-    --color-text: #000000; */
     --box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     --border-radius: 0.35rem;
 }
@@ -39,7 +36,7 @@ body.dark-mode {
     width: 100%;
 }
 
-/* Espaciados */
+
 .my-2 {
     margin-top: 2rem;
     margin-bottom: 2rem;
