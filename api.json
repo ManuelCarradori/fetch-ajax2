@@ -8033,7 +8033,7 @@
     "cioc": "HKG"
     },
     {
-    "name": "Hungria",
+    "name": "Hungría",
     "topLevelDomain": [
     ".hu"
     ],
@@ -8097,7 +8097,7 @@
     "hr": "Mađarska",
     "fa": "مجارستان"
     },
-    "flags": "/img/hu.svg",
+    "flags": "./img/hu.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -12084,7 +12084,7 @@
     "hr": "Mijanmar",
     "fa": "میانمار"
     },
-    "flags": "./img/mmr.svg",
+    "flags": "./img/mm.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -12170,7 +12170,7 @@
     "hr": "Namibija",
     "fa": "نامیبیا"
     },
-    "flags": "./img/nam.svg",
+    "flags": "./img/na.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12259,7 +12259,7 @@
     "hr": "Nauru",
     "fa": "نائورو"
     },
-    "flags": "./img/nru.svg",
+    "flags": "./img/nr.svg",
     "regionalBlocs": [],
     "cioc": "NRU"
     },
@@ -12325,7 +12325,7 @@
     "hr": "Nepal",
     "fa": "نپال"
     },
-    "flags": "./img/npl.svg",
+    "flags": "./img/np.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -12337,7 +12337,7 @@
     "cioc": "NEP"
     },
     {
-    "name": "Netherlands",
+    "name": "Países bajos (Netherlands)",
     "topLevelDomain": [
     ".nl"
     ],
@@ -12399,7 +12399,7 @@
     "hr": "Nizozemska",
     "fa": "پادشاهی هلند"
     },
-    "flags": "./img/nld.svg",
+    "flags": "./img/nl.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -12411,7 +12411,7 @@
     "cioc": "NED"
     },
     {
-    "name": "New Caledonia",
+    "name": "Nueva Caledonia",
     "topLevelDomain": [
     ".nc"
     ],
@@ -12467,12 +12467,12 @@
     "hr": "Nova Kaledonija",
     "fa": "کالدونیای جدید"
     },
-    "flags": "./img/ncl.svg",
+    "flags": "./img/nc.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "New Zealand",
+    "name": "Nueva Zelanda",
     "topLevelDomain": [
     ".nz"
     ],
@@ -12539,7 +12539,7 @@
     "hr": "Novi Zeland",
     "fa": "نیوزیلند"
     },
-    "flags": "./img/nzl.svg",
+    "flags": "./img/nz.svg",
     "regionalBlocs": [],
     "cioc": "NZL"
     },
@@ -12605,7 +12605,7 @@
     "hr": "Nikaragva",
     "fa": "نیکاراگوئه"
     },
-    "flags": "./img/nic.svg",
+    "flags": "./img/ni.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -12688,7 +12688,7 @@
     "hr": "Niger",
     "fa": "نیجر"
     },
-    "flags": "./img/ner.svg",
+    "flags": "./img/ne.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12770,7 +12770,7 @@
     "hr": "Nigerija",
     "fa": "نیجریه"
     },
-    "flags": "./img/nga.svg",
+    "flags": "./img/ng.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12849,12 +12849,12 @@
     "hr": "Niue",
     "fa": "نیووی"
     },
-    "flags": "./img/niu.svg",
+    "flags": "./img/nu.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Norfolk Island",
+    "name": "Norfolk Isla",
     "topLevelDomain": [
     ".nf"
     ],
@@ -12912,12 +12912,12 @@
     "hr": "Otok Norfolk",
     "fa": "جزیره نورفک"
     },
-    "flags": "./img/nfk.svg",
+    "flags": "./img/nf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Korea (Democratic People's Republic of)",
+    "name": "Corea del Norte",
     "topLevelDomain": [
     ".kp"
     ],
@@ -12980,12 +12980,12 @@
     "hr": "Sjeverna Koreja",
     "fa": "کره جنوبی"
     },
-    "flags": "./img/prk.svg",
+    "flags": "./img/kp.svg",
     "regionalBlocs": [],
     "cioc": "PRK"
     },
     {
-    "name": "Del Norte de Mariana Islands",
+    "name": "Islas Marianas del Norte",
     "topLevelDomain": [
     ".mp"
     ],
@@ -13049,12 +13049,12 @@
     "hr": "Sjevernomarijanski otoci",
     "fa": "جزایر ماریانای شمالی"
     },
-    "flags": "./img/mnp.svg",
+    "flags": "./img/mp.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Norway",
+    "name": "Noruega",
     "topLevelDomain": [
     ".no"
     ],
@@ -13131,7 +13131,7 @@
     "hr": "Norveška",
     "fa": "نروژ"
     },
-    "flags": "./img/nor.svg",
+    "flags": "./img/no.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -13143,7 +13143,7 @@
     "cioc": "NOR"
     },
     {
-    "name": "Oman",
+    "name": "Omán",
     "topLevelDomain": [
     ".om"
     ],
@@ -13205,7 +13205,7 @@
     "hr": "Oman",
     "fa": "عمان"
     },
-    "flags": "./img/omn.svg",
+    "flags": "./img/om.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -13221,7 +13221,7 @@
     "cioc": "OMA"
     },
     {
-    "name": "Pakistan",
+    "name": "Pakistán",
     "topLevelDomain": [
     ".pk"
     ],
@@ -13291,7 +13291,7 @@
     "hr": "Pakistan",
     "fa": "پاکستان"
     },
-    "flags": "./img/pak.svg",
+    "flags": "./img/pk.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -13303,7 +13303,7 @@
     "cioc": "PAK"
     },
     {
-    "name": "Palau",
+    "name": "Palaos",
     "topLevelDomain": [
     ".pw"
     ],
@@ -13366,12 +13366,12 @@
     "hr": "Palau",
     "fa": "پالائو"
     },
-    "flags": "./img/plw.svg",
+    "flags": "./img/pw.svg",
     "regionalBlocs": [],
     "cioc": "PLW"
     },
     {
-    "name": "Palestine, State of",
+    "name": "Palestina",
     "topLevelDomain": [
     ".ps"
     ],
@@ -13433,7 +13433,7 @@
     "hr": "Palestina",
     "fa": "فلسطین"
     },
-    "flags": "./img/pse.svg",
+    "flags": "./img/ps.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -13449,7 +13449,7 @@
     "cioc": "PLE"
     },
     {
-    "name": "Panama",
+    "name": "Panamá",
     "topLevelDomain": [
     ".pa"
     ],
@@ -13515,7 +13515,7 @@
     "hr": "Panama",
     "fa": "پاناما"
     },
-    "flags": "./img/pan.svg",
+    "flags": "./img/pa.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -13531,7 +13531,7 @@
     "cioc": "PAN"
     },
     {
-    "name": "Papua New Guinea",
+    "name": "Papúa Nueva Guinea",
     "topLevelDomain": [
     ".pg"
     ],
@@ -13591,7 +13591,7 @@
     "hr": "Papua Nova Gvineja",
     "fa": "پاپوآ گینه نو"
     },
-    "flags": "./img/png.svg",
+    "flags": "./img/pg.svg",
     "regionalBlocs": [],
     "cioc": "PNG"
     },
@@ -13665,7 +13665,7 @@
     "hr": "Paragvaj",
     "fa": "پاراگوئه"
     },
-    "flags": "./img/pry.svg",
+    "flags": "./img/py.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -13686,7 +13686,7 @@
     "cioc": "PAR"
     },
     {
-    "name": "Peru",
+    "name": "Perú",
     "topLevelDomain": [
     ".pe"
     ],
@@ -13750,7 +13750,7 @@
     "hr": "Peru",
     "fa": "پرو"
     },
-    "flags": "./img/per.svg",
+    "flags": "./img/pe.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -13779,7 +13779,7 @@
     "cioc": "PER"
     },
     {
-    "name": "Philippines",
+    "name": "Filipinas",
     "topLevelDomain": [
     ".ph"
     ],
@@ -13837,7 +13837,7 @@
     "hr": "Filipini",
     "fa": "جزایر الندفیلیپین"
     },
-    "flags": "./img/phl.svg",
+    "flags": "./img/ph.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -13849,7 +13849,7 @@
     "cioc": "PHI"
     },
     {
-    "name": "Pitcairn",
+    "name": "Islas Pitcairn",
     "topLevelDomain": [
     ".pn"
     ],
@@ -13911,12 +13911,12 @@
     "hr": "Pitcairnovo otočje",
     "fa": "پیتکرن"
     },
-    "flags": "./img/pcn.svg",
+    "flags": "./img/pn.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Poland",
+    "name": "Polonia",
     "topLevelDomain": [
     ".pl"
     ],
@@ -13982,7 +13982,7 @@
     "hr": "Poljska",
     "fa": "لهستان"
     },
-    "flags": "./img/pol.svg",
+    "flags": "./img/pl.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14056,7 +14056,7 @@
     "hr": "Portugal",
     "fa": "پرتغال"
     },
-    "flags": "./img/prt.svg",
+    "flags": "./img/pt.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14133,12 +14133,12 @@
     "hr": "Portoriko",
     "fa": "پورتو ریکو"
     },
-    "flags": "../img/pt.svg",
+    "flags": "./img/pt.svg",
     "regionalBlocs": [],
     "cioc": "PUR"
     },
     {
-    "name": "Qatar",
+    "name": "Catar",
     "topLevelDomain": [
     ".qa"
     ],
@@ -14198,7 +14198,7 @@
     "hr": "Katar",
     "fa": "قطر"
     },
-    "flags": "./img/qat.svg",
+    "flags": "./img/qa.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -14214,7 +14214,7 @@
     "cioc": "QAT"
     },
     {
-    "name": "Republic of Kosovo",
+    "name": "Kosovo",
     "topLevelDomain": [
     ""
     ],
@@ -14282,7 +14282,7 @@
     "hr": "Kosovo",
     "fa": "کوزوو"
     },
-    "flags": "./img/kos.svg",
+    "flags": "./img/xk.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -14351,7 +14351,7 @@
     "hr": "Réunion",
     "fa": "رئونیون"
     },
-    "flags": "./img/reu.svg",
+    "flags": "./img/re.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14369,7 +14369,7 @@
     "cioc": ""
     },
     {
-    "name": "Romania",
+    "name": "Rumania",
     "topLevelDomain": [
     ".ro"
     ],
@@ -14434,7 +14434,7 @@
     "hr": "Rumunjska",
     "fa": "رومانی"
     },
-    "flags": "./img/rou.svg",
+    "flags": "./img/ro.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14446,7 +14446,7 @@
     "cioc": "ROU"
     },
     {
-    "name": "Russian Federation",
+    "name": "Rusia",
     "topLevelDomain": [
     ".ru"
     ],
@@ -14529,7 +14529,7 @@
     "hr": "Rusija",
     "fa": "روسیه"
     },
-    "flags": "./img/rus.svg",
+    "flags": "./img/ru.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -14543,7 +14543,7 @@
     "cioc": "RUS"
     },
     {
-    "name": "Rwanda",
+    "name": "Ruanda",
     "topLevelDomain": [
     ".rw"
     ],
@@ -14619,7 +14619,7 @@
     "hr": "Ruanda",
     "fa": "رواندا"
     },
-    "flags": "./img/rwa.svg",
+    "flags": "./img/rw.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14701,7 +14701,7 @@
     "cioc": ""
     },
     {
-    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "name": "Santa Elena, Ascensión y Tristán de Acuña",
     "topLevelDomain": [
     ".sh"
     ],
@@ -14757,7 +14757,7 @@
     "hr": "Sveta Helena",
     "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
     },
-    "flags": "./img/shn.svg",
+    "flags": "./img/sh.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14775,7 +14775,7 @@
     "cioc": null
     },
     {
-    "name": "Saint Kitts and Nevis",
+    "name": "San Cristóbal y Nieves",
     "topLevelDomain": [
     ".kn"
     ],
@@ -14832,7 +14832,7 @@
     "hr": "Sveti Kristof i Nevis",
     "fa": "سنت کیتس و نویس"
     },
-    "flags": "./img/kna.svg",
+    "flags": "./img/kn.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -14848,7 +14848,7 @@
     "cioc": "SKN"
     },
     {
-    "name": "Saint Lucia",
+    "name": "Santa Lucía",
     "topLevelDomain": [
     ".lc"
     ],
@@ -14904,7 +14904,7 @@
     "hr": "Sveta Lucija",
     "fa": "سنت لوسیا"
     },
-    "flags": "./img/lca.svg",
+    "flags": "./img/lc.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -14920,7 +14920,7 @@
     "cioc": "LCA"
     },
     {
-    "name": "Saint Martin (French part)",
+    "name": "Sint Maarten",
     "topLevelDomain": [
     ".mf",
     ".fr",
@@ -14995,12 +14995,12 @@
     "hr": "Sveti Martin",
     "fa": "سینت مارتن"
     },
-    "flags": "./img/maf.svg",
+    "flags": "./img/sx.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Saint Pierre and Miquelon",
+    "name": "San Pedro y Miquelón",
     "topLevelDomain": [
     ".pm"
     ],
@@ -15057,12 +15057,12 @@
     "hr": "Sveti Petar i Mikelon",
     "fa": "سن پیر و میکلن"
     },
-    "flags": "./img/spm.svg",
+    "flags": "./img/pm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Saint Vincent and the Grenadines",
+    "name": "San Vicente y las Granadinas",
     "topLevelDomain": [
     ".vc"
     ],
@@ -15118,7 +15118,7 @@
     "hr": "Sveti Vincent i Grenadini",
     "fa": "سنت وینسنت و گرنادین‌ها"
     },
-    "flags": "./img/vct.svg",
+    "flags": "./img/vc.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -15198,7 +15198,7 @@
     "hr": "Samoa",
     "fa": "ساموآ"
     },
-    "flags": "./img/wsm.svg",
+    "flags": "./img/ws.svg",
     "regionalBlocs": [],
     "cioc": "SAM"
     },
