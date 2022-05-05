@@ -16223,7 +16223,7 @@
     "cioc": "SOM"
     },
     {
-    "name": "South Africa",
+    "name": "Sudáfrica",
     "topLevelDomain": [
     ".za"
     ],
@@ -16343,7 +16343,7 @@
     "hr": "Južnoafrička Republika",
     "fa": "آفریقای جنوبی"
     },
-    "flags": "./img/zaf.svg",
+    "flags": "./img/za.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16361,7 +16361,7 @@
     "cioc": "RSA"
     },
     {
-    "name": "South Georgia and the South Sandwich Islands",
+    "name": "Islas Georgias del Sur y Sandwich del Sur",
     "topLevelDomain": [
     ".gs"
     ],
@@ -16423,7 +16423,7 @@
     "hr": "Južna Georgija i otočje Južni Sandwich",
     "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
     },
-    "flags": "./img/sgs.svg",
+    "flags": "./img/gs.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -16444,7 +16444,7 @@
     "cioc": ""
     },
     {
-    "name": "Korea (Republic of)",
+    "name": "Corea del Sur",
     "topLevelDomain": [
     ".kr"
     ],
@@ -16503,12 +16503,12 @@
     "hr": "Južna Koreja",
     "fa": "کره شمالی"
     },
-    "flags": "./img/kor.svg",
+    "flags": "./img/kr.svg",
     "regionalBlocs": [],
     "cioc": "KOR"
     },
     {
-    "name": "South Sudan",
+    "name": "Sudán del Sur",
     "topLevelDomain": [
     ".ss"
     ],
@@ -16571,7 +16571,7 @@
     "hr": "Južni Sudan",
     "fa": "سودان جنوبی"
     },
-    "flags": "./img/ssd.svg",
+    "flags": "./img/ss.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16589,7 +16589,7 @@
     "cioc": ""
     },
     {
-    "name": "Spain",
+    "name": "España",
     "topLevelDomain": [
     ".es"
     ],
@@ -16654,7 +16654,7 @@
     "hr": "Španjolska",
     "fa": "اسپانیا"
     },
-    "flags": "./img/esp.svg",
+    "flags": "./img/es.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -16732,7 +16732,7 @@
     "hr": "Šri Lanka",
     "fa": "سری‌لانکا"
     },
-    "flags": "./img/lka.svg",
+    "flags": "./img/lk.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -16744,7 +16744,7 @@
     "cioc": "SRI"
     },
     {
-    "name": "Sudan",
+    "name": "Sudán",
     "topLevelDomain": [
     ".sd"
     ],
@@ -16816,7 +16816,7 @@
     "hr": "Sudan",
     "fa": "سودان"
     },
-    "flags": "./img/sdn.svg",
+    "flags": "./img/sd.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16844,7 +16844,7 @@
     "cioc": "SUD"
     },
     {
-    "name": "Suriname",
+    "name": "Surinam",
     "topLevelDomain": [
     ".sr"
     ],
@@ -16909,7 +16909,7 @@
     "hr": "Surinam",
     "fa": "سورینام"
     },
-    "flags": "./img/sur.svg",
+    "flags": "./img/sr.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -16940,7 +16940,7 @@
     "cioc": "SUR"
     },
     {
-    "name": "Svalbard and Jan Mayen",
+    "name": "Svalbard y Jan Mayen",
     "topLevelDomain": [
     ".sj"
     ],
@@ -16997,12 +16997,12 @@
     "hr": "Svalbard i Jan Mayen",
     "fa": "سوالبارد و یان ماین"
     },
-    "flags": "./img/sjm.svg",
+    "flags": "./img/sj.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Swaziland",
+    "name": "Suazilandia",
     "topLevelDomain": [
     ".sz"
     ],
@@ -17072,7 +17072,7 @@
     "hr": "Svazi",
     "fa": "سوازیلند"
     },
-    "flags": "./img/swz.svg",
+    "flags": "./img/sz.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17090,7 +17090,7 @@
     "cioc": "SWZ"
     },
     {
-    "name": "Sweden",
+    "name": "Suecia",
     "topLevelDomain": [
     ".se"
     ],
@@ -17151,7 +17151,7 @@
     "hr": "Švedska",
     "fa": "سوئد"
     },
-    "flags": "./img/swe.svg",
+    "flags": "./img/se.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -17163,7 +17163,7 @@
     "cioc": "SWE"
     },
     {
-    "name": "Switzerland",
+    "name": "Suiza",
     "topLevelDomain": [
     ".ch"
     ],
@@ -17242,7 +17242,7 @@
     "hr": "Švicarska",
     "fa": "سوئیس"
     },
-    "flags": "./img/che.svg",
+    "flags": "./img/ch.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -17254,7 +17254,7 @@
     "cioc": "SUI"
     },
     {
-    "name": "Syrian Arab Republic",
+    "name": "Siria",
     "topLevelDomain": [
     ".sy"
     ],
@@ -17318,7 +17318,7 @@
     "hr": "Sirija",
     "fa": "سوریه"
     },
-    "flags": "./img/syr.svg",
+    "flags": "./img/sy.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -17334,7 +17334,7 @@
     "cioc": "SYR"
     },
     {
-    "name": "Taiwan",
+    "name": "Taiwán",
     "topLevelDomain": [
     ".tw"
     ],
@@ -17394,12 +17394,12 @@
     "hr": "Tajvan",
     "fa": "تایوان"
     },
-    "flags": "./img/twn.svg",
+    "flags": "./img/tw.svg",
     "regionalBlocs": [],
     "cioc": "TPE"
     },
     {
-    "name": "Tajikistan",
+    "name": "Tayikistán",
     "topLevelDomain": [
     ".tj"
     ],
@@ -17470,12 +17470,12 @@
     "hr": "Tađikistan",
     "fa": "تاجیکستان"
     },
-    "flags": "./img/tjk.svg",
+    "flags": "./img/tj.svg",
     "regionalBlocs": [],
     "cioc": "TJK"
     },
     {
-    "name": "Tanzania, United Republic of",
+    "name": "Tanzania",
     "topLevelDomain": [
     ".tz"
     ],
@@ -17548,7 +17548,7 @@
     "hr": "Tanzanija",
     "fa": "تانزانیا"
     },
-    "flags": "./img/tza.svg",
+    "flags": "./img/tz.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17566,7 +17566,7 @@
     "cioc": "TAN"
     },
     {
-    "name": "Thailand",
+    "name": "Tailandia",
     "topLevelDomain": [
     ".th"
     ],
@@ -17632,7 +17632,7 @@
     "hr": "Tajland",
     "fa": "تایلند"
     },
-    "flags": "./img/tha.svg",
+    "flags": "./img/th.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -17644,7 +17644,7 @@
     "cioc": "THA"
     },
     {
-    "name": "Timor-Leste",
+    "name": "Timor Oriental",
     "topLevelDomain": [
     ".tl"
     ],
@@ -17711,7 +17711,7 @@
     "hr": "Istočni Timor",
     "fa": "تیمور شرقی"
     },
-    "flags": "./img/tls.svg",
+    "flags": "./img/tl.svg",
     "regionalBlocs": [],
     "cioc": "TLS"
     },
@@ -17779,7 +17779,7 @@
     "hr": "Togo",
     "fa": "توگو"
     },
-    "flags": "./img/tgo.svg",
+    "flags": "./img/tg.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17853,7 +17853,7 @@
     "hr": "Tokelau",
     "fa": "توکلائو"
     },
-    "flags": "./img/tkl.svg",
+    "flags": "./img/tk.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -17920,12 +17920,12 @@
     "hr": "Tonga",
     "fa": "تونگا"
     },
-    "flags": "./img/ton.svg",
+    "flags": "./img/to.svg",
     "regionalBlocs": [],
     "cioc": "TGA"
     },
     {
-    "name": "Trinidad and Tobago",
+    "name": "Trinidad y Tobago",
     "topLevelDomain": [
     ".tt"
     ],
@@ -17982,7 +17982,7 @@
     "hr": "Trinidad i Tobago",
     "fa": "ترینیداد و توباگو"
     },
-    "flags": "./img/tto.svg",
+    "flags": "./img/tt.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -17998,7 +17998,7 @@
     "cioc": "TTO"
     },
     {
-    "name": "Tunisia",
+    "name": "Túnez",
     "topLevelDomain": [
     ".tn"
     ],
@@ -18059,7 +18059,7 @@
     "hr": "Tunis",
     "fa": "تونس"
     },
-    "flags": "./img/tun.svg",
+    "flags": "./img/tn.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -18087,7 +18087,7 @@
     "cioc": "TUN"
     },
     {
-    "name": "Turkey",
+    "name": "Turquía",
     "topLevelDomain": [
     ".tr"
     ],
@@ -18155,12 +18155,12 @@
     "hr": "Turska",
     "fa": "ترکیه"
     },
-    "flags": "./img/tur.svg",
+    "flags": "./img/tr.svg",
     "regionalBlocs": [],
     "cioc": "TUR"
     },
     {
-    "name": "Turkmenistan",
+    "name": "Turkmenistán",
     "topLevelDomain": [
     ".tm"
     ],
@@ -18227,12 +18227,12 @@
     "hr": "Turkmenistan",
     "fa": "ترکمنستان"
     },
-    "flags": "./img/tkm.svg",
+    "flags": "./img/tm.svg",
     "regionalBlocs": [],
     "cioc": "TKM"
     },
     {
-    "name": "Turks and Caicos Islands",
+    "name": "Islas Turcas y Caicos",
     "topLevelDomain": [
     ".tc"
     ],
@@ -18288,7 +18288,7 @@
     "hr": "Otoci Turks i Caicos",
     "fa": "جزایر تورکس و کایکوس"
     },
-    "flags": "./img/tca.svg",
+    "flags": "./img/tc.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -18354,7 +18354,7 @@
     "hr": "Tuvalu",
     "fa": "تووالو"
     },
-    "flags": "./img/tuv.svg",
+    "flags": "./img/tv.svg",
     "regionalBlocs": [],
     "cioc": "TUV"
     },
@@ -18429,7 +18429,7 @@
     "hr": "Uganda",
     "fa": "اوگاندا"
     },
-    "flags": "./img/uga.svg",
+    "flags": "./img/ug.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -18447,7 +18447,7 @@
     "cioc": "UGA"
     },
     {
-    "name": "Ukraine",
+    "name": "Ucrania",
     "topLevelDomain": [
     ".ua"
     ],
@@ -18512,7 +18512,7 @@
     "hr": "Ukrajina",
     "fa": "وکراین"
     },
-    "flags": "./img/ukr.svg",
+    "flags": "./img/ua.svg",
     "regionalBlocs": [],
     "cioc": "UKR"
     },
@@ -18577,7 +18577,7 @@
     "hr": "Ujedinjeni Arapski Emirati",
     "fa": "امارات متحده عربی"
     },
-    "flags": "../img/ae.svg",
+    "flags": "./img/ae.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -18593,7 +18593,7 @@
     "cioc": "UAE"
     },
     {
-    "name": "United Kingdom of Great Britain and Del Norte de Ireland",
+    "name": "Irlanda del Norte",
     "topLevelDomain": [
     ".uk"
     ],
@@ -18661,7 +18661,7 @@
     "hr": "Ujedinjeno Kraljevstvo",
     "fa": "بریتانیای کبیر و ایرلند شمالی"
     },
-    "flags": "./img/gbr.svg",
+    "flags": "./img/gb.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -18673,7 +18673,7 @@
     "cioc": "GBR"
     },
     {
-    "name": "United States of America",
+    "name": "United States of America (Estados Unidos)",
     "topLevelDomain": [
     ".us"
     ],
@@ -18744,7 +18744,7 @@
     "hr": "Sjedinjene Američke Države",
     "fa": "ایالات متحده آمریکا"
     },
-    "flags": "./img/usa.svg",
+    "flags": "./img/us.svg",
     "regionalBlocs": [
     {
     "acronym": "NAFTA",
@@ -18820,7 +18820,7 @@
     "hr": "Urugvaj",
     "fa": "اروگوئه"
     },
-    "flags": "./img/ury.svg",
+    "flags": "./img/uy.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -18841,7 +18841,7 @@
     "cioc": "URU"
     },
     {
-    "name": "Uzbekistan",
+    "name": "Uzbekistán",
     "topLevelDomain": [
     ".uz"
     ],
@@ -18912,7 +18912,7 @@
     "hr": "Uzbekistan",
     "fa": "ازبکستان"
     },
-    "flags": "./img/uzb.svg",
+    "flags": "./img/uz.svg",
     "regionalBlocs": [],
     "cioc": "UZB"
     },
@@ -18988,12 +18988,12 @@
     "hr": "Vanuatu",
     "fa": "وانواتو"
     },
-    "flags": "./img/vut.svg",
+    "flags": "./img/vu.svg",
     "regionalBlocs": [],
     "cioc": "VAN"
     },
     {
-    "name": "Venezuela (Bolivarian Republic of)",
+    "name": "Venezuela",
     "topLevelDomain": [
     ".ve"
     ],
@@ -19055,7 +19055,7 @@
     "hr": "Venezuela",
     "fa": "ونزوئلا"
     },
-    "flags": "./img/ven.svg",
+    "flags": "./img/ve.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -19076,7 +19076,7 @@
     "cioc": "VEN"
     },
     {
-    "name": "Viet Nam",
+    "name": "Vietnam",
     "topLevelDomain": [
     ".vn"
     ],
@@ -19138,7 +19138,7 @@
     "hr": "Vijetnam",
     "fa": "ویتنام"
     },
-    "flags": "./img/vnm.svg",
+    "flags": "./img/vn.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -19150,7 +19150,7 @@
     "cioc": "VIE"
     },
     {
-    "name": "Wallis and Futuna",
+    "name": "Wallis y Futuna",
     "topLevelDomain": [
     ".wf"
     ],
@@ -19208,12 +19208,12 @@
     "hr": "Wallis i Fortuna",
     "fa": "والیس و فوتونا"
     },
-    "flags": "./img/wlf.svg",
+    "flags": "./img/wf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Occidental Sahara",
+    "name": "República Árabe Saharaui Democrática",
     "topLevelDomain": [
     ".eh"
     ],
@@ -19279,7 +19279,7 @@
     "hr": "Zapadna Sahara",
     "fa": "جمهوری دموکراتیک عربی صحرا"
     },
-    "flags": "./img/esh.svg",
+    "flags": "./img/eh.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -19358,7 +19358,7 @@
     "hr": "Jemen",
     "fa": "یمن"
     },
-    "flags": "./img/yem.svg",
+    "flags": "./img/ye.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -19440,7 +19440,7 @@
     "hr": "Zambija",
     "fa": "زامبیا"
     },
-    "flags": "./img/zmb.svg",
+    "flags": "./img/zm.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -19458,7 +19458,7 @@
     "cioc": "ZAM"
     },
     {
-    "name": "Zimbabwe",
+    "name": "Zimbabue",
     "topLevelDomain": [
     ".zw"
     ],
@@ -19572,7 +19572,7 @@
     "hr": "Zimbabve",
     "fa": "زیمباوه"
     },
-    "flags": "./img/zwe.svg",
+    "flags": "./img/zw.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
