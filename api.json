@@ -14920,7 +14920,7 @@
     "cioc": "LCA"
     },
     {
-    "name": "Sint Maarten",
+    "name": "San Martín (Francia)",
     "topLevelDomain": [
     ".mf",
     ".fr",
@@ -14995,7 +14995,7 @@
     "hr": "Sveti Martin",
     "fa": "سینت مارتن"
     },
-    "flags": "./img/sx.svg",
+    "flags": "./img/mf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -15263,12 +15263,12 @@
     "hr": "San Marino",
     "fa": "سان مارینو"
     },
-    "flags": "./img/smr.svg",
+    "flags": "./img/sm.svg",
     "regionalBlocs": [],
     "cioc": "SMR"
     },
     {
-    "name": "Sao Tome and Principe",
+    "name": "Santo Tomé y Príncipe",
     "topLevelDomain": [
     ".st"
     ],
@@ -15326,7 +15326,7 @@
     "hr": "Sveti Toma i Princip",
     "fa": "کواترو دو فرویرو"
     },
-    "flags": "./img/stp.svg",
+    "flags": "./img/st.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15344,7 +15344,7 @@
     "cioc": "STP"
     },
     {
-    "name": "Saudi Arabia",
+    "name": "Arabia Saudita",
     "topLevelDomain": [
     ".sa"
     ],
@@ -15410,7 +15410,7 @@
     "hr": "Saudijska Arabija",
     "fa": "عربستان سعودی"
     },
-    "flags": "./img/sau.svg",
+    "flags": "./img/sa.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -15490,7 +15490,7 @@
     "hr": "Senegal",
     "fa": "سنگال"
     },
-    "flags": "./img/sen.svg",
+    "flags": "./img/sn.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15577,7 +15577,7 @@
     "hr": "Srbija",
     "fa": "صربستان"
     },
-    "flags": "./img/srb.svg",
+    "flags": "./img/rs.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -15654,7 +15654,7 @@
     "hr": "Sejšeli",
     "fa": "سیشل"
     },
-    "flags": "./img/syc.svg",
+    "flags": "./img/sc.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15672,7 +15672,7 @@
     "cioc": "SEY"
     },
     {
-    "name": "Sierra Leone",
+    "name": "Sierra Leona",
     "topLevelDomain": [
     ".sl"
     ],
@@ -15732,7 +15732,7 @@
     "hr": "Sijera Leone",
     "fa": "سیرالئون"
     },
-    "flags": "./img/sle.svg",
+    "flags": "./img/sl.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15750,7 +15750,7 @@
     "cioc": "SLE"
     },
     {
-    "name": "Singapore",
+    "name": "Singapur",
     "topLevelDomain": [
     ".sg"
     ],
@@ -15832,7 +15832,7 @@
     "hr": "Singapur",
     "fa": "سنگاپور"
     },
-    "flags": "./img/sgp.svg",
+    "flags": "./img/sg.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -15844,7 +15844,7 @@
     "cioc": "SIN"
     },
     {
-    "name": "Sint Maarten (Dutch part)",
+    "name": "San Martín (Países Bajos)",
     "topLevelDomain": [
     ".sx"
     ],
@@ -15908,12 +15908,12 @@
     "hr": null,
     "fa": "سینت مارتن"
     },
-    "flags": "./img/sxm.svg",
+    "flags": "./img/sx.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Slovakia",
+    "name": "Eslovaquia",
     "topLevelDomain": [
     ".sk"
     ],
@@ -15977,7 +15977,7 @@
     "hr": "Slovačka",
     "fa": "اسلواکی"
     },
-    "flags": "./img/svk.svg",
+    "flags": "./img/sk.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -15989,7 +15989,7 @@
     "cioc": "SVK"
     },
     {
-    "name": "Slovenia",
+    "name": "Eslovenia",
     "topLevelDomain": [
     ".si"
     ],
@@ -16052,7 +16052,7 @@
     "hr": "Slovenija",
     "fa": "اسلوونی"
     },
-    "flags": "./img/svn.svg",
+    "flags": "./img/si.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -16064,7 +16064,7 @@
     "cioc": "SLO"
     },
     {
-    "name": "Solomon Islands",
+    "name": "Islas Salomón",
     "topLevelDomain": [
     ".sb"
     ],
@@ -16120,7 +16120,7 @@
     "hr": "Solomonski Otoci",
     "fa": "جزایر سلیمان"
     },
-    "flags": "./img/slb.svg",
+    "flags": "./img/sb.svg",
     "regionalBlocs": [],
     "cioc": "SOL"
     },
@@ -16195,7 +16195,7 @@
     "hr": "Somalija",
     "fa": "سومالی"
     },
-    "flags": "./img/som.svg",
+    "flags": "./img/so.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
