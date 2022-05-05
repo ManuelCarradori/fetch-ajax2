@@ -977,7 +977,7 @@
     {
     "iso639_1": "pa",
     "iso639_2": "pan",
-    "name": "(Eastern) Punjabi",
+    "name": "(Oriental) Punjabi",
     "nativeName": "ਪੰਜਾਬੀ"
     }
     ],
@@ -1527,7 +1527,7 @@
     "Respublika Belarus’"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 9498700,
     "latlng": [
     53,
@@ -2793,7 +2793,7 @@
     " the Abode of Peace"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 411900,
     "latlng": [
     4.5,
@@ -2870,7 +2870,7 @@
     "Република България"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 7153784,
     "latlng": [
     43,
@@ -3034,7 +3034,7 @@
     "République du Burundi"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 10114505,
     "latlng": [
     -3.5,
@@ -3119,7 +3119,7 @@
     "Kingdom of Cambodia"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 15626444,
     "latlng": [
     13,
@@ -3182,7 +3182,7 @@
     "cioc": "CAM"
     },
     {
-    "name": "Cameroon",
+    "name": "Camerún",
     "topLevelDomain": [
     ".cm"
     ],
@@ -3253,7 +3253,7 @@
     "hr": "Kamerun",
     "fa": "کامرون"
     },
-    "flag": "https://restcountries.eu/data/cmr.svg",
+    "flags": "./img/cm.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3271,7 +3271,7 @@
     "cioc": "CMR"
     },
     {
-    "name": "Canada",
+    "name": "Canadá",
     "topLevelDomain": [
     ".ca"
     ],
@@ -3340,7 +3340,7 @@
     "hr": "Kanada",
     "fa": "کانادا"
     },
-    "flag": "https://restcountries.eu/data/can.svg",
+    "flags": "./img/ca.svg",
     "regionalBlocs": [
     {
     "acronym": "NAFTA",
@@ -3413,7 +3413,7 @@
     "hr": "Zelenortska Republika",
     "fa": "کیپ ورد"
     },
-    "flag": "https://restcountries.eu/data/cpv.svg",
+    "flags": "./img/cv.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3431,7 +3431,7 @@
     "cioc": "CPV"
     },
     {
-    "name": "Cayman Islands",
+    "name": "Islas Caimán",
     "topLevelDomain": [
     ".ky"
     ],
@@ -3487,7 +3487,7 @@
     "hr": "Kajmanski otoci",
     "fa": "جزایر کیمن"
     },
-    "flag": "https://restcountries.eu/data/cym.svg",
+    "flags": "./img/ky.svg",
     "regionalBlocs": [],
     "cioc": "CAY"
     },
@@ -3563,7 +3563,7 @@
     "hr": "Srednjoafrička Republika",
     "fa": "جمهوری آفریقای مرکزی"
     },
-    "flag": "https://restcountries.eu/data/caf.svg",
+    "flags": "./img/cf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3653,7 +3653,7 @@
     "hr": "Čad",
     "fa": "چاد"
     },
-    "flag": "https://restcountries.eu/data/tcd.svg",
+    "flags": "./img/td.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3734,7 +3734,7 @@
     "hr": "Čile",
     "fa": "شیلی"
     },
-    "flag": "https://restcountries.eu/data/chl.svg",
+    "flags": "./img/cl.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -3783,7 +3783,7 @@
     "Zhōnghuá Rénmín Gònghéguó"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 1377422166,
     "latlng": [
     35,
@@ -3841,7 +3841,7 @@
     "hr": "Kina",
     "fa": "چین"
     },
-    "flag": "https://restcountries.eu/data/chn.svg",
+    "flags": "./img/cn.svg",
     "regionalBlocs": [],
     "cioc": "CHN"
     },
@@ -3903,7 +3903,7 @@
     "hr": "Božićni otok",
     "fa": "جزیره کریسمس"
     },
-    "flag": "https://restcountries.eu/data/cxr.svg",
+    "flags": "./img/cx.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -3966,7 +3966,7 @@
     "hr": "Kokosovi Otoci",
     "fa": "جزایر کوکوس"
     },
-    "flag": "https://restcountries.eu/data/cck.svg",
+    "flags": "./img/cc.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -4035,7 +4035,7 @@
     "hr": "Kolumbija",
     "fa": "کلمبیا"
     },
-    "flag": "https://restcountries.eu/data/col.svg",
+    "flags": "./img/co.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -4064,7 +4064,7 @@
     "cioc": "COL"
     },
     {
-    "name": "Comoros",
+    "name": "Comoras",
     "topLevelDomain": [
     ".km"
     ],
@@ -4082,7 +4082,7 @@
     "al-Ittiḥād al-Qumurī"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 806153,
     "latlng": [
     -12.16666666,
@@ -4130,7 +4130,7 @@
     "hr": "Komori",
     "fa": "کومور"
     },
-    "flag": "https://restcountries.eu/data/com.svg",
+    "flags": "./img/km.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4227,7 +4227,7 @@
     "hr": "Kongo",
     "fa": "کنگو"
     },
-    "flag": "https://restcountries.eu/data/cog.svg",
+    "flags": "./img/cg.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4245,7 +4245,7 @@
     "cioc": "CGO"
     },
     {
-    "name": "Congo (Democratic Republic of the)",
+    "name": "Congo (Rep. Dem.)",
     "topLevelDomain": [
     ".cd"
     ],
@@ -4339,7 +4339,7 @@
     "hr": "Kongo, Demokratska Republika",
     "fa": "جمهوری کنگو"
     },
-    "flag": "https://restcountries.eu/data/cod.svg",
+    "flags": "./img/cd.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4419,7 +4419,7 @@
     "hr": "Cookovo Otočje",
     "fa": "جزایر کوک"
     },
-    "flag": "https://restcountries.eu/data/cok.svg",
+    "flags": "./img/ck.svg",
     "regionalBlocs": [],
     "cioc": "COK"
     },
@@ -4485,7 +4485,7 @@
     "hr": "Kostarika",
     "fa": "کاستاریکا"
     },
-    "flag": "https://restcountries.eu/data/cri.svg",
+    "flags": "./img/cr.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -4501,7 +4501,7 @@
     "cioc": "CRC"
     },
     {
-    "name": "Croatia",
+    "name": "Croacia",
     "topLevelDomain": [
     ".hr"
     ],
@@ -4566,7 +4566,7 @@
     "hr": "Hrvatska",
     "fa": "کرواسی"
     },
-    "flag": "https://restcountries.eu/data/hrv.svg",
+    "flags": "./img/hr.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4641,7 +4641,7 @@
     "hr": "Kuba",
     "fa": "کوبا"
     },
-    "flag": "https://restcountries.eu/data/cub.svg",
+    "flags": "./img/cu.svg",
     "regionalBlocs": [],
     "cioc": "CUB"
     },
@@ -4697,7 +4697,7 @@
     {
     "iso639_1": "pa",
     "iso639_2": "pan",
-    "name": "(Eastern) Punjabi",
+    "name": "(Oriental) Punjabi",
     "nativeName": "ਪੰਜਾਬੀ"
     },
     {
@@ -4719,12 +4719,12 @@
     "hr": null,
     "fa": "کوراسائو"
     },
-    "flag": "https://restcountries.eu/data/cuw.svg",
+    "flags": "./img/cw.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Cyprus",
+    "name": "Chipre",
     "topLevelDomain": [
     ".cy"
     ],
@@ -4799,7 +4799,7 @@
     "hr": "Cipar",
     "fa": "قبرس"
     },
-    "flag": "https://restcountries.eu/data/cyp.svg",
+    "flags": "./img/cy.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4811,7 +4811,7 @@
     "cioc": "CYP"
     },
     {
-    "name": "Czech Republic",
+    "name": "Chequia",
     "topLevelDomain": [
     ".cz"
     ],
@@ -4820,14 +4820,14 @@
     "callingCodes": [
     "420"
     ],
-    "capital": "Prague",
+    "capital": "Praga",
     "altSpellings": [
     "CZ",
     "Česká republika",
     "Česko"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 10558524,
     "latlng": [
     49.75,
@@ -4880,7 +4880,7 @@
     "hr": "Češka",
     "fa": "جمهوری چک"
     },
-    "flag": "https://restcountries.eu/data/cze.svg",
+    "flags": "./img/Cze.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4892,7 +4892,7 @@
     "cioc": "CZE"
     },
     {
-    "name": "Denmark",
+    "name": "Dinamarca",
     "topLevelDomain": [
     ".dk"
     ],
@@ -4957,7 +4957,7 @@
     "hr": "Danska",
     "fa": "دانمارک"
     },
-    "flag": "https://restcountries.eu/data/dnk.svg",
+    "flags": "./img/dk.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4969,7 +4969,7 @@
     "cioc": "DEN"
     },
     {
-    "name": "Djibouti",
+    "name": "Yibuti",
     "topLevelDomain": [
     ".dj"
     ],
@@ -4989,7 +4989,7 @@
     "Jamhuuriyadda Jabuuti"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 900000,
     "latlng": [
     11.5,
@@ -5041,7 +5041,7 @@
     "hr": "Džibuti",
     "fa": "جیبوتی"
     },
-    "flag": "https://restcountries.eu/data/dji.svg",
+    "flags": "./img/dj.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5128,12 +5128,12 @@
     "hr": "Dominika",
     "fa": "دومینیکا"
     },
-    "flag": "https://restcountries.eu/data/dma.svg",
+    "flags": "./img/dm.svg",
     "regionalBlocs": [],
     "cioc": "DMA"
     },
     {
-    "name": "Dominican Republic",
+    "name": "República Dominicana",
     "topLevelDomain": [
     ".do"
     ],
@@ -5193,7 +5193,7 @@
     "hr": "Dominikanska Republika",
     "fa": "جمهوری دومینیکن"
     },
-    "flag": "https://restcountries.eu/data/dom.svg",
+    "flags": "./img/do.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -5281,7 +5281,7 @@
     "hr": "Ekvador",
     "fa": "اکوادور"
     },
-    "flag": "https://restcountries.eu/data/ecu.svg",
+    "flags": "./img/ec.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -5302,7 +5302,7 @@
     "cioc": "ECU"
     },
     {
-    "name": "Egypt",
+    "name": "Egipto",
     "topLevelDomain": [
     ".eg"
     ],
@@ -5363,7 +5363,7 @@
     "hr": "Egipat",
     "fa": "مصر"
     },
-    "flag": "https://restcountries.eu/data/egy.svg",
+    "flags": "./img/eg.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5452,7 +5452,7 @@
     "hr": "Salvador",
     "fa": "السالوادور"
     },
-    "flag": "https://restcountries.eu/data/slv.svg",
+    "flags": "./img/sv.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -5492,7 +5492,7 @@
     2,
     10
     ],
-    "demonym": "Equatorial Guinean",
+    "demonym": "Guinea Ecuatorial",
     "area": 28051,
     "gini": null,
     "timezones": [
@@ -5537,7 +5537,7 @@
     "hr": "Ekvatorijalna Gvineja",
     "fa": "گینه استوایی"
     },
-    "flag": "https://restcountries.eu/data/gnq.svg",
+    "flags": "./img/gq.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5575,7 +5575,7 @@
     ""
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 5352000,
     "latlng": [
     15,
@@ -5633,7 +5633,7 @@
     "hr": "Eritreja",
     "fa": "اریتره"
     },
-    "flag": "https://restcountries.eu/data/eri.svg",
+    "flags": "./img/er.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5713,7 +5713,7 @@
     "hr": "Estonija",
     "fa": "استونی"
     },
-    "flag": "https://restcountries.eu/data/est.svg",
+    "flags": "./img/ee.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -5725,7 +5725,7 @@
     "cioc": "EST"
     },
     {
-    "name": "Ethiopia",
+    "name": "Etiopía",
     "topLevelDomain": [
     ".et"
     ],
@@ -5742,7 +5742,7 @@
     "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 92206005,
     "latlng": [
     8,
@@ -5791,7 +5791,7 @@
     "hr": "Etiopija",
     "fa": "اتیوپی"
     },
-    "flag": "https://restcountries.eu/data/eth.svg",
+    "flags": "./img/et.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5809,7 +5809,7 @@
     "cioc": "ETH"
     },
     {
-    "name": "Falkland Islands (Malvinas)",
+    "name": "Islas Malvinas (Siempre ARG)",
     "topLevelDomain": [
     ".fk"
     ],
@@ -5866,7 +5866,7 @@
     "hr": "Falklandski Otoci",
     "fa": "جزایر فالکلند"
     },
-    "flag": "https://restcountries.eu/data/flk.svg",
+    "flags": "./img/fk.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -5887,7 +5887,7 @@
     "cioc": ""
     },
     {
-    "name": "Faroe Islands",
+    "name": "Islas Feroe",
     "topLevelDomain": [
     ".fo"
     ],
@@ -5950,7 +5950,7 @@
     "hr": "Farski Otoci",
     "fa": "جزایر فارو"
     },
-    "flag": "https://restcountries.eu/data/fro.svg",
+    "flags": "./img/fo.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -5962,7 +5962,7 @@
     "cioc": ""
     },
     {
-    "name": "Fiji",
+    "name": "Fiyi",
     "topLevelDomain": [
     ".fj"
     ],
@@ -6040,12 +6040,12 @@
     "hr": "Fiđi",
     "fa": "فیجی"
     },
-    "flag": "https://restcountries.eu/data/fji.svg",
+    "flags": "./img/fj.svg",
     "regionalBlocs": [],
     "cioc": "FIJ"
     },
     {
-    "name": "Finland",
+    "name": "Finlandia",
     "topLevelDomain": [
     ".fi"
     ],
@@ -6115,7 +6115,7 @@
     "hr": "Finska",
     "fa": "فنلاند"
     },
-    "flag": "https://restcountries.eu/data/fin.svg",
+    "flags": "./img/fi.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6127,7 +6127,7 @@
     "cioc": "FIN"
     },
     {
-    "name": "France",
+    "name": "Francia",
     "topLevelDomain": [
     ".fr"
     ],
@@ -6205,7 +6205,7 @@
     "hr": "Francuska",
     "fa": "فرانسه"
     },
-    "flag": "https://restcountries.eu/data/fra.svg",
+    "flags": "./img/fr.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6217,7 +6217,7 @@
     "cioc": "FRA"
     },
     {
-    "name": "French Guiana",
+    "name": "Guayana Francesa",
     "topLevelDomain": [
     ".gf"
     ],
@@ -6278,7 +6278,7 @@
     "hr": "Francuska Gvajana",
     "fa": "گویان فرانسه"
     },
-    "flag": "https://restcountries.eu/data/guf.svg",
+    "flags": "./img/gf.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -6305,7 +6305,7 @@
     "cioc": ""
     },
     {
-    "name": "French Polynesia",
+    "name": "Polinesia Francesa",
     "topLevelDomain": [
     ".pf"
     ],
@@ -6366,12 +6366,12 @@
     "hr": "Francuska Polinezija",
     "fa": "پلی‌نزی فرانسه"
     },
-    "flag": "https://restcountries.eu/data/pyf.svg",
+    "flags": "./img/pf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "French Del Sur de Territories",
+    "name": "Tierras Australes y Antárticas Francesas",
     "topLevelDomain": [
     ".tf"
     ],
@@ -6427,7 +6427,7 @@
     "hr": "Francuski južni i antarktički teritoriji",
     "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
     },
-    "flag": "https://restcountries.eu/data/atf.svg",
+    "flags": "./img/tf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6507,7 +6507,7 @@
     "hr": "Gabon",
     "fa": "گابن"
     },
-    "flag": "https://restcountries.eu/data/gab.svg",
+    "flags": "./img/ga.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6584,7 +6584,7 @@
     "hr": "Gambija",
     "fa": "گامبیا"
     },
-    "flag": "https://restcountries.eu/data/gmb.svg",
+    "flags": "./img/gm.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6664,12 +6664,12 @@
     "hr": "Gruzija",
     "fa": "گرجستان"
     },
-    "flag": "https://restcountries.eu/data/geo.svg",
+    "flags": "./img/ge.svg",
     "regionalBlocs": [],
     "cioc": "GEO"
     },
     {
-    "name": "Germany",
+    "name": "Alemania",
     "topLevelDomain": [
     ".de"
     ],
@@ -6737,7 +6737,7 @@
     "hr": "Njemačka",
     "fa": "آلمان"
     },
-    "flag": "https://restcountries.eu/data/deu.svg",
+    "flags": "./img/de.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6809,7 +6809,7 @@
     "hr": "Gana",
     "fa": "غنا"
     },
-    "flag": "https://restcountries.eu/data/gha.svg",
+    "flags": "./img/gh.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6885,7 +6885,7 @@
     "hr": "Gibraltar",
     "fa": "جبل‌طارق"
     },
-    "flag": "https://restcountries.eu/data/gib.svg",
+    "flags": "./img/gi.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6897,7 +6897,7 @@
     "cioc": ""
     },
     {
-    "name": "Greece",
+    "name": "Grecia",
     "topLevelDomain": [
     ".gr"
     ],
@@ -6961,7 +6961,7 @@
     "hr": "Grčka",
     "fa": "یونان"
     },
-    "flag": "https://restcountries.eu/data/grc.svg",
+    "flags": "./img/gr.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6973,7 +6973,7 @@
     "cioc": "GRE"
     },
     {
-    "name": "Greenland",
+    "name": "Groenlandia",
     "topLevelDomain": [
     ".gl"
     ],
@@ -7033,12 +7033,12 @@
     "hr": "Grenland",
     "fa": "گرینلند"
     },
-    "flag": "https://restcountries.eu/data/grl.svg",
+    "flags": "./img/gl.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Grenada",
+    "name": "Granada",
     "topLevelDomain": [
     ".gd"
     ],
@@ -7094,7 +7094,7 @@
     "hr": "Grenada",
     "fa": "گرنادا"
     },
-    "flag": "https://restcountries.eu/data/grd.svg",
+    "flags": "./img/gd.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7110,7 +7110,7 @@
     "cioc": "GRN"
     },
     {
-    "name": "Guadeloupe",
+    "name": "Guadalupe",
     "topLevelDomain": [
     ".gp"
     ],
@@ -7167,7 +7167,7 @@
     "hr": "Gvadalupa",
     "fa": "جزیره گوادلوپ"
     },
-    "flag": "https://restcountries.eu/data/glp.svg",
+    "flags": "./img/gp.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7241,7 +7241,7 @@
     "hr": "Guam",
     "fa": "گوام"
     },
-    "flag": "https://restcountries.eu/data/gum.svg",
+    "flags": "./img/gu.svg",
     "regionalBlocs": [],
     "cioc": "GUM"
     },
@@ -7307,7 +7307,7 @@
     "hr": "Gvatemala",
     "fa": "گواتمالا"
     },
-    "flag": "https://restcountries.eu/data/gtm.svg",
+    "flags": "./img/gt.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -7392,7 +7392,7 @@
     "hr": "Guernsey",
     "fa": "گرنزی"
     },
-    "flag": "https://restcountries.eu/data/ggy.svg",
+    "flags": "./img/gg.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7468,7 +7468,7 @@
     "hr": "Gvineja",
     "fa": "گینه"
     },
-    "flag": "https://restcountries.eu/data/gin.svg",
+    "flags": "./img/gn.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -7547,7 +7547,7 @@
     "hr": "Gvineja Bisau",
     "fa": "گینه بیسائو"
     },
-    "flag": "https://restcountries.eu/data/gnb.svg",
+    "flags": "./img/gw.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -7626,7 +7626,7 @@
     "hr": "Gvajana",
     "fa": "گویان"
     },
-    "flag": "https://restcountries.eu/data/guy.svg",
+    "flags": "./img/gy.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7657,7 +7657,7 @@
     "cioc": "GUY"
     },
     {
-    "name": "Haiti",
+    "name": "Haití",
     "topLevelDomain": [
     ".ht"
     ],
@@ -7724,7 +7724,7 @@
     "hr": "Haiti",
     "fa": "هائیتی"
     },
-    "flag": "https://restcountries.eu/data/hti.svg",
+    "flags": "./img/ht.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7740,7 +7740,7 @@
     "cioc": "HAI"
     },
     {
-    "name": "Heard Island and McDonald Islands",
+    "name": "Islas Heard y McDonald",
     "topLevelDomain": [
     ".hm",
     ".aq"
@@ -7797,12 +7797,12 @@
     "hr": "Otok Heard i otočje McDonald",
     "fa": "جزیره هرد و جزایر مک‌دونالد"
     },
-    "flag": "https://restcountries.eu/data/hmd.svg",
+    "flags": "./img/hm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
     {
-    "name": "Holy See",
+    "name": "Santa Sede",
     "topLevelDomain": [
     ".va"
     ],
@@ -7880,7 +7880,7 @@
     "hr": "Sveta Stolica",
     "fa": "سریر مقدس"
     },
-    "flag": "https://restcountries.eu/data/vat.svg",
+    "flags": "./img/miel.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7947,7 +7947,7 @@
     "hr": "Honduras",
     "fa": "هندوراس"
     },
-    "flag": "https://restcountries.eu/data/hnd.svg",
+    "flags": "./img/hn.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -7978,7 +7978,7 @@
     "香港"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 7324300,
     "latlng": [
     22.25,
@@ -8028,12 +8028,12 @@
     "hr": "Hong Kong",
     "fa": "هنگ‌کنگ"
     },
-    "flag": "https://restcountries.eu/data/hkg.svg",
+    "flags": "./img/hk.svg",
     "regionalBlocs": [],
     "cioc": "HKG"
     },
     {
-    "name": "Hungary",
+    "name": "Hungria",
     "topLevelDomain": [
     ".hu"
     ],
@@ -8047,7 +8047,7 @@
     "HU"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 9823000,
     "latlng": [
     47,
@@ -8097,7 +8097,7 @@
     "hr": "Mađarska",
     "fa": "مجارستان"
     },
-    "flag": "https://restcountries.eu/data/hun.svg",
+    "flags": "/img/hu.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -8109,7 +8109,7 @@
     "cioc": "HUN"
     },
     {
-    "name": "Iceland",
+    "name": "Islandia",
     "topLevelDomain": [
     ".is"
     ],
@@ -8168,7 +8168,7 @@
     "hr": "Island",
     "fa": "ایسلند"
     },
-    "flag": "https://restcountries.eu/data/isl.svg",
+    "flags": "./img/is.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -8282,7 +8282,7 @@
     "Republik Indonesia"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 258705000,
     "latlng": [
     -5,
@@ -8983,7 +8983,7 @@
     "Nihon"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 126960000,
     "latlng": [
     36,
@@ -9292,7 +9292,7 @@
     "Jamhuri ya Kenya"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 47251000,
     "latlng": [
     1,
@@ -9614,7 +9614,7 @@
     "Sathalanalat Paxathipatai Paxaxon Lao"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 6492400,
     "latlng": [
     18,
@@ -10347,7 +10347,7 @@
     "Região Administrativa Especial de Macau da República Popular da China"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 649100,
     "latlng": [
     22.16666666,
@@ -10495,7 +10495,7 @@
     "République de Madagascar"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 22434363,
     "latlng": [
     -20,
@@ -10576,7 +10576,7 @@
     "Republic of Malawi"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 16832910,
     "latlng": [
     -13.5,
@@ -10660,7 +10660,7 @@
     "MY"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 31405416,
     "latlng": [
     2.5,
@@ -11186,7 +11186,7 @@
     "République de Maurice"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 1262879,
     "latlng": [
     -20.28333333,
@@ -11262,7 +11262,7 @@
     "Département de Mayotte"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 226915,
     "latlng": [
     -12.83333333,
@@ -11494,7 +11494,7 @@
     "Republica Moldova"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 3553100,
     "latlng": [
     47,
@@ -11630,7 +11630,7 @@
     "MN"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 3093100,
     "latlng": [
     46,
@@ -11952,7 +11952,7 @@
     "República de Moçambique"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 26423700,
     "latlng": [
     -18.25,
@@ -12036,7 +12036,7 @@
     "Pyidaunzu Thanmăda Myăma Nainngandaw"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 51419420,
     "latlng": [
     22,
@@ -12934,7 +12934,7 @@
     "Chosŏn Minjujuŭi Inmin Konghwaguk"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 25281000,
     "latlng": [
     40,
@@ -13795,7 +13795,7 @@
     "Repúblika ng Pilipinas"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 103279800,
     "latlng": [
     13,
@@ -13932,7 +13932,7 @@
     "Rzeczpospolita Polska"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 38437239,
     "latlng": [
     52,
@@ -14229,7 +14229,7 @@
     "Република Косово"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 1733842,
     "latlng": [
     42.666667,
@@ -14309,7 +14309,7 @@
     "Reunion"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 840974,
     "latlng": [
     -21.15,
@@ -14386,7 +14386,7 @@
     "România"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 19861408,
     "latlng": [
     46,
@@ -14464,7 +14464,7 @@
     "Rossiyskaya Federatsiya"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 146599183,
     "latlng": [
     60,
@@ -14560,7 +14560,7 @@
     "République du Rwanda"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 11553188,
     "latlng": [
     -2,
@@ -15606,7 +15606,7 @@
     "République des Seychelles"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 91400,
     "latlng": [
     -4.58333333,
@@ -15767,7 +15767,7 @@
     "新加坡共和国"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 5535000,
     "latlng": [
     1.36666666,
@@ -15929,7 +15929,7 @@
     "Slovenská republika"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 5426252,
     "latlng": [
     48.66666666,
@@ -16143,7 +16143,7 @@
     "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 11079000,
     "latlng": [
     10,
@@ -16459,7 +16459,7 @@
     "Republic of Korea"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 50801405,
     "latlng": [
     37,
@@ -17352,7 +17352,7 @@
     "Zhōnghuá Mínguó"
     ],
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "Oriental Asia",
     "Poblacion": 23503349,
     "latlng": [
     23.5,
@@ -17491,7 +17491,7 @@
     "Jamhuri ya Muungano wa Tanzania"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 55155000,
     "latlng": [
     -6,
@@ -17585,7 +17585,7 @@
     "Ratcha Anachak Thai"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 65327652,
     "latlng": [
     15,
@@ -17662,7 +17662,7 @@
     "Repúblika Demokrátika Timór-Leste"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 1167242,
     "latlng": [
     -8.83333333,
@@ -18375,7 +18375,7 @@
     "Jamhuri ya Uganda"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 33860700,
     "latlng": [
     1,
@@ -18462,7 +18462,7 @@
     "Ukrayina"
     ],
     "region": "Europa",
-    "subregion": "Eastern Europa",
+    "subregion": "Oriental Europa",
     "Poblacion": 42692393,
     "latlng": [
     49,
@@ -19092,7 +19092,7 @@
     "Cộng hòa Xã hội chủ nghĩa Việt Nam"
     ],
     "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "subregion": "South-Oriental Asia",
     "Poblacion": 92700000,
     "latlng": [
     16.16666666,
@@ -19389,7 +19389,7 @@
     "Republic of Zambia"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 15933883,
     "latlng": [
     -15,
@@ -19473,7 +19473,7 @@
     "Republic of Zimbabwe"
     ],
     "region": "Africa",
-    "subregion": "Eastern Africa",
+    "subregion": "Oriental Africa",
     "Poblacion": 14240168,
     "latlng": [
     -20,
