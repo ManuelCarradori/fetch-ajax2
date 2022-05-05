@@ -76,7 +76,7 @@
     "hr": "Afganistan",
     "fa": "افغانستان"
     },
-    "flags": "../img/af.svg",
+    "flags": "./img/af.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -147,7 +147,7 @@
     "hr": "Ålandski otoci",
     "fa": "جزایر الند"
     },
-    "flags": "../img/aw.svg",
+    "flags": "./img/aw.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -223,7 +223,7 @@
     "hr": "Albanija",
     "fa": "آلبانی"
     },
-    "flags": "../img/al.svg",
+    "flags": "./img/al.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -301,7 +301,7 @@
     "hr": "Alžir",
     "fa": "الجزایر"
     },
-    "flags": "../img/Alg.svg",
+    "flags": "./img/Alg.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -394,7 +394,7 @@
     "hr": "Američka Samoa",
     "fa": "ساموآی آمریکا"
     },
-    "flags": "../img/as.svg",
+    "flags": "./img/as.svg",
     "regionalBlocs": [],
     "cioc": "ASA"
     },
@@ -460,7 +460,7 @@
     "hr": "Andora",
     "fa": "آندورا"
     },
-    "flags": "../img/and.svg",
+    "flags": "./img/and.svg",
     "regionalBlocs": [],
     "cioc": "AND"
     },
@@ -528,7 +528,7 @@
     "hr": "Angola",
     "fa": "آنگولا"
     },
-    "flags": "../img/ao.svg",
+    "flags": "./img/ao.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -602,7 +602,7 @@
     "hr": "Angvila",
     "fa": "آنگویلا"
     },
-    "flags": "../img/agi.svg",
+    "flags": "./img/agi.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -679,7 +679,7 @@
     "hr": "Antarktika",
     "fa": "جنوبگان"
     },
-    "flags": "../img/aq.svg",
+    "flags": "./img/aq.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -740,7 +740,7 @@
     "hr": "Antigva i Barbuda",
     "fa": "آنتیگوا و باربودا"
     },
-    "flags": "../img/ag.svg",
+    "flags": "./img/ag.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -826,7 +826,7 @@
     "hr": "Argentina",
     "fa": "آرژانتین"
     },
-    "flags": "../img/ar.svg",
+    "flags": "./img/ar.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -917,7 +917,7 @@
     "hr": "Armenija",
     "fa": "ارمنستان"
     },
-    "flags": "../img/am.svg",
+    "flags": "./img/am.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -993,7 +993,7 @@
     "hr": "Aruba",
     "fa": "آروبا"
     },
-    "flags": "../img/aw.svg",
+    "flags": "./img/aw.svg",
     "regionalBlocs": [],
     "cioc": "ARU"
     },
@@ -1061,7 +1061,7 @@
     "hr": "Australija",
     "fa": "استرالیا"
     },
-    "flags": "../img/au.svg",
+    "flags": "./img/au.svg",
     "regionalBlocs": [],
     "cioc": "AUS"
     },
@@ -1134,7 +1134,7 @@
     "hr": "Austrija",
     "fa": "اتریش"
     },
-    "flags": "../img/at.svg",
+    "flags": "./img/at.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -1210,7 +1210,7 @@
     "hr": "Azerbajdžan",
     "fa": "آذربایجان"
     },
-    "flags": "../img/az.svg",
+    "flags": "./img/az.svg",
     "regionalBlocs": [],
     "cioc": "AZE"
     },
